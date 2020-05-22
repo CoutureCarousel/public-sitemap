@@ -3,6 +3,8 @@
 http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
         <url>
                 <loc>https://stylecarousel.com/</loc>
-                <lastmod>2020-05-22T19:31:07+00:00</lastmod>
+                <lastmod>2020-05-22T20:31:07+00:00</lastmod>
+                <loc>https://www.stylecarousel.com/</loc>
+                <lastmod>2020-05-22T20:31:07+00:00</lastmod>
         </url>
 </urlset>
